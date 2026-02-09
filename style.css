@@ -1,0 +1,32 @@
+
+body {
+font-family: Cairo, Arial;
+background: #f4f6f8;
+margin: 0;
+text-align: center;
+}
+header {
+background: #1976d2;
+color: white;
+padding: 20px;
+}
+nav a {
+color: white;
+margin: 10px;
+text-decoration: none;
+}
+.hero {
+padding: 40px;
+}
+button {
+padding: 10px 20px;
+margin: 5px;
+}
+footer {
+background: #1976d2;
+color: white;
+padding: 10px;
+position: fixed;
+bottom: 0;
+width: 100%;
+}
